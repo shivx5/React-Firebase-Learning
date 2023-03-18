@@ -1,0 +1,9 @@
+.App{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+}
+.senddatato-db{
+        display: flex;
+        gap: 10px;
+}
